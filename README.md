@@ -1,4 +1,8 @@
-<h1>Привет, я <a href="(https://github.com/theQuietFox)" target="_blank">Ирина</a></h1>
+Добро пожаловать и привет! :wave:	
+
+Меня зовут <a href="(https://github.com/theQuietFox)" target="_blank">Ирина</a></h1>. С января 2022 года я - инженер по тестированию программного обеспечения.
+
+
 <h3>Java QA Automation Engineer</h3>
 &nbsp;Коммерческий опыт в тестировани 3 года
 
